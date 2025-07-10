@@ -30,5 +30,5 @@ theme:
     integrate: true
 
 nav:
-  - Visão Geral: "index.md"
+  - Visão Geral: "visao-geral.md"
 
