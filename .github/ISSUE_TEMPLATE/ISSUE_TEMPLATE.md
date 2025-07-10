@@ -1,8 +1,7 @@
 ---
 name: 🛠️ Tarefa Técnica
 about: Modelo simples para atividades técnicas no projeto
-title: "feat: [Título resumido da tarefa]"
-labels: [documentation, enhancement, good first issue]
+title: "Título resumido da tarefa"
 assignees: []
 ---
 
