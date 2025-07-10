@@ -1,0 +1,34 @@
+site_name: Qualidades de Software 1 - Villela & Andrade
+repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01-Mateus-Villela-Raissa-Andrade
+site_author: Mateus Villela & Raissa Andrade
+repo_name: 2025-1-T01-Mateus-Villela-Raissa-Andrade
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  logo: 'assets/imgs/logo.svg'
+  favicon: 'assets/imgs/agromart.ico'
+
+  palette:
+    - scheme: default
+      primary: "#387F4A" 
+      accent: "#F6C94A"
+      toggle:
+        icon: material/brightness-7   
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: "#A7D0AC" 
+      accent: "#FFD873"
+      toggle:
+        icon: material/brightness-4   
+        name: Switch to light mode
+
+  extra:
+  toc:
+    integrate: true
+
+nav:
+  - Visão Geral: "index.md"
+
