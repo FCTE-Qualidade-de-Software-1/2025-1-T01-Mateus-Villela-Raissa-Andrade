@@ -181,7 +181,7 @@ O grupo identificou o AgroMart como tendo alinhamento com os seguintes [ODS](htt
       <td>1.0</td>
       <td>Criação da Fase 1</td>
       <td><a href="https://github.com/RaissaAndradeS">Raissa</a></td>
-      <td></td>
+      <td><a href="https://github.com/MVConsorte">Mateus</a></td>
     </tr>
   </tbody>
 </table>
