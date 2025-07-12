@@ -39,3 +39,15 @@ nav:
       - Fase 2: Fase2.md
       - Fase 3: Fase3.md
       - Fase 4: Fase4.md
+
+markdown_extensions:
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - search
