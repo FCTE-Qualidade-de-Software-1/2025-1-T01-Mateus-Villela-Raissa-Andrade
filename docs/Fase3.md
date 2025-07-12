@@ -218,7 +218,7 @@ A avaliação será realizada por meio da aplicação das **métricas GQM** defi
 
 ---
 
-## 🔗 Referências
+## 🔗 Bibliografia
 
 - [Fase 2 – Especificar Avaliação (GQM)](Fase2.md)
 - [ISO/IEC 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
@@ -246,7 +246,7 @@ A avaliação será realizada por meio da aplicação das **métricas GQM** defi
       <td>1.0</td>
       <td>Criação da Fase 3, Planejamento</td>
       <td><a href="https://github.com/RaissaAndradeS">Raissa</a></td>
-      <td>–</td>
+      <td><a href="https://github.com/MVConsorte">Mateus</a></td>
     </tr>
   </tbody>
 </table>
