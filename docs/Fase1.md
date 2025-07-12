@@ -1,5 +1,15 @@
 # AgroMart: Avaliação da Qualidade do Software 
 
+##  Informações Gerais da Avaliação
+
+| **Item**                         | **Resposta**                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Nome do produto**              | AgroMart                                                                    |
+| **Versão do produto**            | (v0.1 – sem versionamento oficial)                      |
+| **Domínio da aplicação do produto** | Agricultura urbana, comércio justo     |
+| **Objetivo da avaliação**        | Avaliar a compreensibilidade do código-fonte e da documentação              |
+
+
 ## Estabelecer os requisitos de avaliação
 
 - **Subcaracterística avaliada**: Compreensibilidade  
@@ -159,20 +169,46 @@ O grupo identificou o AgroMart como tendo alinhamento com os seguintes [ODS](htt
 
 </div>
 
+## Requisitos de Software (ambiente de desenvolvimento)
+
+| **Item**              | **Recomendado**                                             |
+|-----------------------|-------------------------------------------------------------|
+| Sistema Operacional   | Windows 10+, Ubuntu 20.04+, macOS 11+                      |
+| Node.js               | v16.x ou superior                                           |
+| npm ou yarn           | npm v8+ / yarn v1.22+                                       |
+| Navegador moderno     | Google Chrome, Firefox, Edge (últimas versões)             |
+| Editor de código      | VSCode (com extensões para React, ESLint, Prettier)        |
+
+> ℹ️ As dependências estão no `package.json`. O projeto usa **React** com **TypeScript** e **TailwindCSS**.
+
 ---
 
-## Tabela de Versionamento
+##  Requisitos de Hardware (mínimos para desenvolvimento)
+
+| **Item**        | **Especificação mínima**                                         |
+|-----------------|------------------------------------------------------------------|
+| CPU             | Dual-core (Intel i3, Ryzen 3)                     |
+| RAM             | 4 GB (mínimo), 8 GB recomendados                                 |
+| Armazenamento   | SSD com pelo menos 500 MB livres                                 |
+| Rede            | Conexão com acesso ao GitHub, Firebase e Node registry          |
+
+
+---
+
+<br>
+
+##  Tabela de Versionamento
 
 <div style="overflow-x:auto">
 
 <table>
   <thead>
     <tr>
-      <th>Data</th>
-      <th>Versão</th>
-      <th>Descrição</th>
-      <th>Autor</th>
-      <th>Revisor</th>
+      <th><strong>Data</strong></th>
+      <th><strong>Versão</strong></th>
+      <th><strong>Descrição</strong></th>
+      <th><strong>Autor</strong></th>
+      <th><strong>Revisor</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -181,7 +217,14 @@ O grupo identificou o AgroMart como tendo alinhamento com os seguintes [ODS](htt
       <td>1.0</td>
       <td>Criação da Fase 1</td>
       <td><a href="https://github.com/RaissaAndradeS">Raissa</a></td>
-      <td></td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>11/07/2025</td>
+      <td>1.1</td>
+      <td>Adição de Requisitos de Software e Hardware e Versão do Projeto</td>
+      <td><a href="https://github.com/RaissaAndradeS">Raissa</a></td>
+      <td>–</td>
     </tr>
   </tbody>
 </table>
