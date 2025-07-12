@@ -32,8 +32,11 @@ theme:
 nav:
   - Visão Geral: index.md
   - Gerência:
-      - Gestão de Processo: gerencia/gestao-de-processo.md
-      - Gestão de Projeto: gerencia/gestao-de-projeto.md
+      - Panorama do Processo: gerencia/panorama-de-processo.md
+      - Etapa 1 - Comprometimento com a Medição: gerencia/estabelecimento.md
+      - Etapa 2 - Planejamento da Medição: gerencia/planejamento.md
+      - Etapa 3 - Implementação da Medição: gerencia/implementacao/preambulo.md
+      - Etapa 4 - Avaliação da Medição: gerencia/avaliacao.md
   - Fases do Projeto:
       - Fase 1: Fase1.md
       - Fase 2: Fase2.md
