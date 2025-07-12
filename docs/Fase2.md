@@ -133,7 +133,7 @@
       <td>1.0</td>
       <td>Criação da Fase 2, Objetivos e Questões</td>
       <td><a href="https://github.com/RaissaAndradeS">Raissa</a></td>
-      <td>–</td>
+      <td><a href="https://github.com/MVConsorte">Mateus</a></td>
     </tr>
   </tbody>
 </table>
