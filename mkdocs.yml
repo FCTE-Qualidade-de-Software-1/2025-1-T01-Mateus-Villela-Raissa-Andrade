@@ -31,6 +31,9 @@ theme:
 
 nav:
   - Visão Geral: index.md
+  - Gerência:
+      - Gestão de Processo: gerencia/gestao-de-processo.md
+      - Gestão de Projeto: gerencia/gestao-de-projeto.md
   - Fases do Projeto:
       - Fase 1: Fase1.md
       - Fase 2: Fase2.md
