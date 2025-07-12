@@ -6,7 +6,7 @@
 
 ---
 
-##  Objetivo de Medição (GQM)
+## 1. Objetivo de Medição (GQM)
 
 <table>
   <thead>
@@ -41,7 +41,7 @@
 
 ---
 
-##  Questões Relacionadas ao Objetivo de Medição 1
+##  1.1 Questões Relacionadas ao Objetivo de Medição 
 
 | Questão | Descrição | Hipótese |
 |--------|-----------|----------|
@@ -51,14 +51,14 @@
 
 ---
 
-##  Relação entre Objetivo de Medição – Questões – Métricas
+## 2. Relação entre Objetivo de Medição – Questões – Métricas
 
 ![alt text](assets/imgs/QuestoeeMetricas.png)  
 <center><em>Figura 1 - Relação entre questões e métricas</em></center>
 
 ---
 
-##  Abstraction Sheet – Objetivo de Medição
+## 3. Abstraction Sheet – Objetivo de Medição
 
 | **Object** | **Purpose** | **Quality Focus** | **Viewpoint** |
 |-----------|-------------|-------------------|----------------|
@@ -100,7 +100,7 @@
 
 ---
 
-##  Níveis de Pontuação e Critérios de Julgamento
+## 4. Níveis de Pontuação e Critérios de Julgamento
 
 | Métrica | Tipo      | Nível Alto (👍)                                      | Nível Médio (⚠️)                                      | Nível Baixo (🚨)                                        |
 |---------|-----------|------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
